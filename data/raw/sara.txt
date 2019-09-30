@@ -1,4 +1,4 @@
-
+# uid	record id
 # tag_id	transmitter ID number
 # utc	universal time coordinate
 # lc	location class, see http://www.nacls.com/html/argos/manual/html/chap2/chap2_3.htm#2.3.5
