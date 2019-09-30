@@ -1,7 +1,10 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Sep 30 12:07:28 2019
-
-@author: hw207
-"""
-
+#-------------------------------------------------------------
+# ARGOSTracker.py
+#
+#
+Description: Parses a line of ARGOS tracking data
+#
+#
+Created by: John Fay (john.fay@duke.edu)
+# Created on: Fall 2019
+#--------------------------------------------------------------
